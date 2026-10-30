@@ -80,3 +80,11 @@ Este documento inaugura uma linha documental. Revisões futuras deverão ser pub
 **GaIA — Inteligência Artificial Pessoal**  
 **Gaia Coin — proposta conceitual de reconhecimento de contribuição**  
 **SOUNAVY**
+
+## 9. Licenças
+
+- **Software e código:** Apache License 2.0 — ver `LICENSE`.
+- **Documentação, manifesto e textos autorais:** Creative Commons CC BY 4.0 — ver `LICENSE-DOCS.md`.
+- **Atribuição e escopo:** ver `NOTICE`.
+
+A documentação pode ser reutilizada e adaptada, inclusive comercialmente, desde que a autoria e a licença sejam indicadas. Marcas, nomes e identidade visual não são licenciados para uso como endosso.
